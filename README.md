@@ -15,6 +15,17 @@ haha.
 
 
 
+
+# open Stuffs
+
+
+Schematics and sample pictures for anyone's making breakout board of NodeMCU V3 (Lolin) board.
+
+
+
+
+
+
 # openSupport (오픈서포트)
 
 website: www.opensupport.xyz
