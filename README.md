@@ -8,6 +8,13 @@ breakout board of NodeMCU V3 (Lolin) board.
 
 
 
+
+
+
+
+
+
+
 The NodeMCU V3 board (Lolin) operates at 3.3V by default.
 
 
@@ -34,6 +41,13 @@ my son's name is seongbin and dauther's name is subin.
 
 
 haha ^^.
+
+
+
+
+
+
+
 
 
 
